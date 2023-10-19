@@ -1,0 +1,1 @@
+export const BASE_URL = "https://emp-backend-cluster2.onrender.com/"
